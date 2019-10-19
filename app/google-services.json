@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "314013401104",
+    "firebase_url": "https://aspire-97c04.firebaseio.com",
+    "project_id": "aspire-97c04",
+    "storage_bucket": "aspire-97c04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314013401104:android:b23db419f0285d056c8a95",
+        "android_client_info": {
+          "package_name": "com.example.android.aspire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314013401104-jq8fdrt88ipoghotgek2ovacah0nruf4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.aspire",
+            "certificate_hash": "3c66b9ca2b97b93a73c6d0913804ea5dcbb7b2d5"
+          }
+        },
+        {
+          "client_id": "314013401104-i5pnftfs823486015mikvairdvd5cign.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmo7H-ou90FdTFJjAM6c0SMqJz8ot7HTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314013401104-i5pnftfs823486015mikvairdvd5cign.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
